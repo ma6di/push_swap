@@ -1,4 +1,4 @@
-Push Swap is an algorithmic sorting project from the 42 curriculum. It challenges you to sort a stack of integers 
+Push Swap is an algorithmic sorting project. It challenges you to sort a stack of integers 
 using a limited set of operations and two stacks, while minimizing the number of moves.
 
 The program takes a list of integers as input and outputs the optimal sequence of operations to sort them in ascending order.
