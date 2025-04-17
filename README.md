@@ -12,4 +12,4 @@ The program takes a list of integers as input and outputs the optimal sequence o
 
 __Visualizer__
 
-<img (https://github.com/user-attachments/assets/24d9209f-32d4-41b9-a3ea-be8cfa552332) width="600">
+![Image](https://github.com/user-attachments/assets/24d9209f-32d4-41b9-a3ea-be8cfa552332)
