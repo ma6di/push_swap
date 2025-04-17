@@ -8,3 +8,7 @@ The program takes a list of integers as input and outputs the optimal sequence o
   - Practice data structures like stacks, linked lists, and arrays.
   - Implement efficient sorting logic using limited commands.
   - Minimize time and space complexity while keeping code clean and modular.
+
+
+__Visualizer__
+#<img src="program/assets/gameplay.gif" width="600">
