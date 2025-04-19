@@ -29,4 +29,6 @@ __📋 Project Goals__
 
 __Visualizer__
 
+Credit : __@o-reo__
+
 <img src="https://github.com/user-attachments/assets/24d9209f-32d4-41b9-a3ea-be8cfa552332" width="600">
