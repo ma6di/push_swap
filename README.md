@@ -29,4 +29,4 @@ __📋 Project Goals__
 
 __Visualizer__
 
-![Image](https://github.com/user-attachments/assets/24d9209f-32d4-41b9-a3ea-be8cfa552332 width="600")
+<img src="https://github.com/user-attachments/assets/24d9209f-32d4-41b9-a3ea-be8cfa552332" width="600">
